@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CodeReviewPlatform.Domain\CodeReviewPlatform.Domain.csproj" />
-    <ProjectReference Include="..\CodeReviewPlatform.Infrastructure\CodeReviewPlatform.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
