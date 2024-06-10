@@ -1,0 +1,6 @@
+@CodeReviewPlatform.Web_HostAddress = http://localhost:5252
+
+GET {{CodeReviewPlatform.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
